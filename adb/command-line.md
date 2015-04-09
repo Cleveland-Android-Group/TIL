@@ -3,6 +3,7 @@ adb
 adb devices  
 adb shell  
 adb pull <path> <local_path>  
+adb backup <path>
 
 adb shell
 =====================================
@@ -17,6 +18,3 @@ apktool decode <pathToApk>
 
 dex2jar  
 apktool
-
-
-man.the.is.tonygreer.tonyspasswordstorer
