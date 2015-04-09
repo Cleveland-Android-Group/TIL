@@ -17,3 +17,6 @@ apktool decode <pathToApk>
 
 dex2jar  
 apktool
+
+
+man.the.is.tonygreer.tonyspasswordstorer
